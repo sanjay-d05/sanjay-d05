@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer dedicated to creating i
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ## Projects
-### [Trendy Tales](https://trendy-tales.vercel.app/) : <small>An E-Commerce Application created using React JS which showcases the front-end and functionalities. </small>
+### [Trendy Tales](https://trendy-tales.vercel.app/) : <sub>An E-Commerce Application created using React JS which showcases the front-end and functionalities. </sub>
 
 ### [Live Weather App](https://live-weather-app-eta.vercel.app/) : <small>It Displays the real-time weather, windspeed etc of places.</small>
 
