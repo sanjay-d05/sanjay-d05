@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer dedicated to creating i
 
 ## Projects
 ### <sub>[Trendy Tales](https://trendy-tales.vercel.app/) : An E-Commerce Application created using React JS which showcases the front-end and functionalities. </sub>
-
 ### <sub>[Live Weather App](https://live-weather-app-eta.vercel.app/) : It Displays the real-time weather, windspeed etc of places.</sub>
 
 ## Let's Connect!
