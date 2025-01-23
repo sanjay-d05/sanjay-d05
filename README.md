@@ -1,6 +1,6 @@
 # Hi there, I'm SANJAY D 👋
 
-Welcome to my GitHub profile! I'm a Full Stack Developer dedicated to creating interactive and scalable web applications. With expertise in HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, SQL, MongoDB, and Figma, I strive to blend technical proficiency with strategic insights to deliver effective solutions.
+Welcome to my GitHub profile! I'm a Full Stack Developer dedicated to creating interactive and scalable web applications. With expertise in HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, SQL, MongoDB, Python , Java and Figma, I strive to blend technical proficiency with strategic insights to deliver effective solutions.
 
 ![Profile views](https://komarev.com/ghpvc/?username=SANJAY-hue-cell&color=red)
 
