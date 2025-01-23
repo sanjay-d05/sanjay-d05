@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I'm a Full Stack Developer dedicated to creating i
 )
 
 ## Projects
-### [Trendy Tales]
-A brief description of what the project does and its features. (https://trendy-tales.vercel.app/)
+### [Trendy Tales](https://trendy-tales.vercel.app/)
+A brief description of what the project does and its features. 
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-d-7aba96189)
