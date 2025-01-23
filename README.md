@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Full Stack Developer dedicated to creating interactive and scalable web applications. With expertise in HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, SQL, MongoDB, and Figma, I strive to blend technical proficiency with strategic insights to deliver effective solutions.
 
-![Profile views](https://komarev.com/ghpvc/?username=SANJAY-hue-cell&color=purple)
+![Profile views](https://komarev.com/ghpvc/?username=SANJAY-hue-cell&color=red)
 
 ## About Me
 - 🌟 Full Stack Developer
