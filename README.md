@@ -23,10 +23,10 @@ Welcome to my GitHub profile! I'm a Full Stack Developer dedicated to creating i
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
-)
-
 ## Projects
-### [Trendy Tales](https://trendy-tales.vercel.app/) : A brief description of what the project does and its features. 
+### [Trendy Tales](https://trendy-tales.vercel.app/) : An E-Commerce Application created using React JS which showcases the front-end and functionalities. 
+
+### [Live Weather App](https://live-weather-app-eta.vercel.app/) : It Displays the real-time weather, windspeed etc of places.  
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-d-7aba96189)
