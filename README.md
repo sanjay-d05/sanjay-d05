@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer dedicated to creating i
 - [Encryption and Decryption](https://sanjay-d05.github.io/encryption-decryption/) : It Shows the real-time encryption and decryption of texts .
 
 ## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-d-7aba96189)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjayd05/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanjayjay564@gmail.com)
 
 Feel free to explore my repository 😊!!
