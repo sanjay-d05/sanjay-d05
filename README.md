@@ -31,7 +31,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer dedicated to creating i
 - [Trendy Tales](https://trendy-tales.vercel.app/) : An E-Commerce Application created using React JS which showcases the front-end and functionalities.
 - [Portfolio Website](https://portfolio-recent-ashen.vercel.app/) : It Showcases all My skills , projects , Achievements etc.
 - [Live Weather App](https://live-weather-app-eta.vercel.app/) : It Displays the real-time weather, windspeed etc of places.
-- [Encryption and Decryption](https://sanjay-d05.github.io/encryption-decryption/) : It Shows the real-time encryption and decryption of texts .
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjayd05/)
