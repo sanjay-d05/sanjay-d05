@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer dedicated to creating i
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ## Projects
-- [Scribly - Blog App](https://blog-app-client-z7qz.onrender.com/) : A MERN stack Blog App with user authentication, blog creation/editing, category filtering, tags, and responsive design.
+- [Blog App](https://blog-app-client-z7qz.onrender.com/) : A MERN stack Blog App with user authentication, blog creation/editing, category filtering, tags, and responsive design.
 - [Trendy Tales](https://trendy-tales.vercel.app/) : An E-Commerce Application created using React JS which showcases the front-end and functionalities.
 - [Portfolio Website](https://portfolio-recent-ashen.vercel.app/) : It Showcases all My skills , projects , Achievements etc.
 - [Live Weather App](https://live-weather-app-eta.vercel.app/) : It Displays the real-time weather, windspeed etc of places.
