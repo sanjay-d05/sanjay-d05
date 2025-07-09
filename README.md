@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer dedicated to creating i
 ## About Me
 - 🌟 Full Stack Developer / MERN Full Stack Developer
 - 📚 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js, Figma , Python and Java .
-- 🎓 Pursuing Bachelor's in Computer Applications
+- 🎓 Completed Bachelor's in Computer Applications (BCA)
 
 ## Tools and Languages
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
