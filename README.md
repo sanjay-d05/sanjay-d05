@@ -1,6 +1,6 @@
 # Hi there, I'm SANJAY D 👋
 
-Welcome to my GitHub profile! I'm a Full Stack Developer dedicated to creating interactive and scalable web applications. With expertise in HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, MySQL, MongoDB, Python , Java and Figma, I strive to blend technical proficiency with strategic insights to deliver effective solutions.
+Welcome to my GitHub profile! I'm a Full Stack Developer dedicated to creating interactive and scalable web applications. With expertise in HTML, CSS, JavaScript, React.js, Next.js,  Bootstrap, Node.js, Express.js, MySQL, MongoDB, Python , Java and Figma, I strive to blend technical proficiency with strategic insights to deliver effective solutions.
 
 ![Profile views](https://komarev.com/ghpvc/?username=SANJAY-hue-cell&color=red)
 
@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer dedicated to creating i
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
