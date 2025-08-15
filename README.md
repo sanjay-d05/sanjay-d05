@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer dedicated to creating i
 
 ## About Me
 - 🌟 Full Stack Developer / MERN Full Stack Developer
-- 📚 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js, Next.js Figma , Python and Java .
+- 📚 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js, Next.js, Figma , Python and Java .
 - 🎓 Completed Bachelor's in Computer Applications (BCA)
 
 ## Tools and Languages
