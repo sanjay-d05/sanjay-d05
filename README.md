@@ -55,11 +55,6 @@ BCA graduate, shipping side projects to learn by building
 
 <br/>
 
-🔭&nbsp; **Currently working on:** a RAG-powered chat application using Next.js and vector search
-🌱&nbsp; **Currently learning:** advanced system design patterns and LLM orchestration frameworks
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -100,16 +95,6 @@ BCA graduate, shipping side projects to learn by building
 
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanjay-d05&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
-<br/>
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -133,4 +118,4 @@ Always open to interesting projects, collaborations, or just a good conversation
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
 
-</div>v
+</div>
