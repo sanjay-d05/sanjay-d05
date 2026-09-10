@@ -90,7 +90,6 @@ BCA graduate, shipping side projects to learn by building
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-d05&theme=tokyonight&hide_border=true" width="49%"/>
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sanjay-d05&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanjay-d05&theme=tokyo-night&hide_border=true" width="49%"/>
 
 </div>
 
