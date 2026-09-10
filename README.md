@@ -1,139 +1,90 @@
-# Hi there, I'm SANJAY D 👋
+<div align="center">
 
-### Full-Stack Web Developer | AI & LLM Applications | System Design
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20There,%20I'm%20Sanjay%20D%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** focused on building responsive, scalable, and intelligent applications.
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;AI+%26+LLM+Application+Builder;System+Design+Enthusiast;MERN+Stack+%7C+RAG+%7C+Clean+Architecture&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22&duration=3000&pause=1000"/>
 
-I work across frontend and backend development with **React.js, Next.js, Node.js, NestJS, Express.js, REST APIs, PostgreSQL, MySQL, and MongoDB**. I'm also exploring **AI/LLM application development, RAG architectures, AI models, and intelligent systems**, with a focus on integrating AI capabilities into modern web applications.
+<br/>
 
-I’m particularly interested in **Clean Architecture, System Design, scalable backend systems, RAG pipelines, and maintainable software engineering practices**.
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
-![Profile views](https://komarev.com/ghpvc/?username=SANJAY-hue-cell\&color=red)
+<br/><br/>
 
-## 👨‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=sanjay-d05&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/sanjay-d05?label=Followers&style=for-the-badge&color=58A6FF"/>
 
-* 🚀 Full-Stack Web Developer / MERN Stack Developer
-* 💻 Build modern web applications using **React.js and Next.js**
-* ⚙️ Develop backend services and **REST APIs using Node.js, Express.js, and NestJS**
-* 🏗️ Interested in **Clean Architecture, System Design, scalable systems, and maintainable code**
-* 🤖 Exploring **AI/LLM application development and RAG architectures**
-* 🧠 Working with **LLMs, AI models, embeddings, vector search, and AI-powered applications**
-* 🗄️ Work with **PostgreSQL, MySQL, and MongoDB**
-* 🎨 Familiar with **Figma, Bootstrap, and Tailwind CSS**
-* 🎓 Bachelor's in Computer Applications (BCA)
+</div>
 
-## 🛠️ Technologies & Tools
+<br/>
 
-### Frontend
+## 👋 About Me
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square\&logo=bootstrap\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
+- 🚀 Full-Stack Developer building with **React.js, Next.js, Node.js, NestJS**
+- 🤖 Exploring **AI/LLM application development** — RAG pipelines, embeddings, vector search
+- 🏗️ Focused on **Clean Architecture, System Design & scalable backend systems**
+- 🎓 BCA graduate, always shipping side projects to learn by building
 
-### Backend
+<br/>
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat-square)
+## 🛠️ Tech Stack
 
-### Databases
+<div align="center">
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+**Frontend**
 
-### AI & LLM
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind"/>
 
-![AI](https://img.shields.io/badge/-AI-412991?style=flat-square)
-![LLMs](https://img.shields.io/badge/-LLMs-412991?style=flat-square)
-![RAG](https://img.shields.io/badge/-RAG%20Architecture-412991?style=flat-square)
-![Embeddings](https://img.shields.io/badge/-Embeddings-412991?style=flat-square)
-![Vector Search](https://img.shields.io/badge/-Vector%20Search-412991?style=flat-square)
+**Backend & Databases**
 
-* 🤖 AI / LLM Application Development
-* 🧠 Large Language Models (LLMs)
-* 📚 Retrieval-Augmented Generation (RAG)
-* 🔎 Vector Search & Semantic Search
-* 🧩 Embeddings & Document Retrieval
-* 🔗 AI-powered APIs and applications
-* 🏗️ RAG pipeline design and integration
-* 💬 AI-powered chat applications
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgresql,mysql,mongodb"/>
 
-### Architecture & Engineering
+**AI / LLM**
 
-![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-333333?style=flat-square)
-![System Design](https://img.shields.io/badge/-System%20Design-333333?style=flat-square)
-![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat-square)
-![API Design](https://img.shields.io/badge/-API%20Design-333333?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-FF6F00?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-673AB7?style=flat-square)
 
-* 🏗️ Clean Architecture
-* 📐 System Design
-* 🧩 Modular & scalable backend architecture
-* 🔗 RESTful API design
-* 🔄 Microservices architecture
-* 📈 Scalability & maintainability
-* 🔐 Authentication & authorization
-* ⚡ Performance optimization
+**Languages & Tools**
 
-### Programming Languages
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,figma,git"/>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square\&logo=java\&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white)
+</div>
 
-### Design
+<br/>
 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sanjay-d05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-d05&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-d05&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay-d05&theme=tokyo-night&hide_border=true" width="49%"/>
+
+</div>
+
+<br/>
 
 ## 🚀 Featured Projects
 
-### 📝 Blog App
+<div align="center">
 
-A full-stack MERN application featuring user authentication, blog creation and editing, category filtering, tags, and responsive UI.
+<a href="https://github.com/sanjay-d05/blog-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay-d05&repo=blog-app&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://github.com/sanjay-d05/YOUR-REPO-2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay-d05&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true"/>
+</a>
 
-🔗 [Live Demo](https://blog-app-client-z7qz.onrender.com/)
+</div>
 
-### 🛍️ Trendy Tales
+<br/>
 
-An e-commerce frontend application built with React.js, focusing on a responsive shopping experience and reusable UI components.
-
-🔗 [Live Demo](https://trendy-tales.vercel.app/)
-
-### 💼 Portfolio Website
-
-My personal portfolio showcasing my skills, projects, experience, and achievements.
-
-🔗 [Live Demo](https://portfolio-recent-ashen.vercel.app/)
-
-### 🌤️ Live Weather App
-
-A weather application that displays real-time weather information, including temperature, wind speed, and other weather details.
-
-🔗 [Live Demo](https://live-weather-app-eta.vercel.app/)
-
-## 📌 Currently Working On
-
-* 🤖 Building **AI-powered applications using LLMs**
-* 📚 Exploring and implementing **RAG architectures**
-* 🧠 Working with **embeddings, semantic search, and vector retrieval**
-* 🔧 Building scalable backend services with **Node.js, Express.js, and NestJS**
-* 🏗️ Applying **Clean Architecture** principles
-* 📐 Learning and implementing **System Design** concepts
-* 🔌 Designing and integrating **REST APIs**
-* 🗄️ Working with **PostgreSQL, MySQL, and MongoDB**
-* ⚡ Building modern applications with **React.js & Next.js**
-* 📈 Improving application scalability, maintainability, and performance
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sanjayd05/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:sanjayjay564@gmail.com)
-
-Feel free to explore my repositories and projects! 😊
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+</div>
