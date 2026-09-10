@@ -22,10 +22,36 @@
 
 ## 👋 About Me
 
-- 🚀 Full-Stack Developer building with **React.js, Next.js, Node.js, NestJS**
-- 🤖 Exploring **AI/LLM application development** — RAG pipelines, embeddings, vector search
-- 🏗️ Focused on **Clean Architecture, System Design & scalable backend systems**
-- 🎓 BCA graduate, always shipping side projects to learn by building
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🚀&nbsp;&nbsp;**Full-Stack Developer**
+building with React.js, Next.js, Node.js, NestJS
+
+</td>
+<td width="50%" valign="top">
+
+🤖&nbsp;&nbsp;**AI / LLM Development**
+exploring RAG pipelines, embeddings, vector search
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🏗️&nbsp;&nbsp;**Architecture & Design**
+focused on Clean Architecture, System Design & scalable backends
+
+</td>
+<td width="50%" valign="top">
+
+🎓&nbsp;&nbsp;**Always Learning**
+BCA graduate, shipping side projects to learn by building
+
+</td>
+</tr>
+</table>
 
 <br/>
 
