@@ -86,7 +86,7 @@ BCA graduate, shipping side projects to learn by building
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=sanjay-d05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=sanjay-d05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=prs,issues,stars&hide_rank=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-d05&theme=tokyonight&hide_border=true" width="49%"/>
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sanjay-d05&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
