@@ -86,10 +86,10 @@ BCA graduate, shipping side projects to learn by building
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanjay-d05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=sanjay-d05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-d05&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-d05&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sanjay-d05&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay-d05&theme=tokyo-night&hide_border=true" width="49%"/>
 
 </div>
@@ -101,10 +101,10 @@ BCA graduate, shipping side projects to learn by building
 <div align="center">
 
 <a href="https://github.com/sanjay-d05/blog-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay-d05&repo=blog-app&theme=tokyonight&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=sanjay-d05&repo=blog-app&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://github.com/sanjay-d05/YOUR-REPO-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay-d05&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=sanjay-d05&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
