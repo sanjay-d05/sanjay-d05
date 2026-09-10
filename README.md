@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sanjay-d05&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views"/>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsanjay-d05&label=Profile%20Views&countColor=%2358A6FF&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/sanjay-d05?label=Followers&style=for-the-badge&color=58A6FF"/>
 
 </div>
