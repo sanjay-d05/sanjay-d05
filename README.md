@@ -1,56 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20There,%20I'm%20Sanjay%20D%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93C5FD,50:C4B5FD,100:F9A8D4&height=230&section=header&text=Sanjay%20D&fontSize=58&fontColor=1E293B&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Backend%20%C2%B7%20Microservices%20%C2%B7%20AI%20Systems&descSize=18&descColor=475569&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;AI+%26+LLM+Application+Builder;System+Design+Enthusiast;MERN+Stack+%7C+RAG+%7C+Clean+Architecture&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22&duration=3000&pause=1000"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&width=700&height=45&lines=Software+Developer+at+Code+Neptune;Backend+and+microservices+with+NestJS;Full-stack+with+React+and+Next.js;Building+AI+and+RAG+systems" alt="typing"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sanjayd05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sanjayjay564@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://portfolio-new-delta-lyart.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsanjay-d05&label=Profile%20Views&countColor=%2358A6FF&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/sanjay-d05?label=Followers&style=for-the-badge&color=58A6FF"/>
+<a href="https://www.linkedin.com/in/sanjayd05"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://sanjay-portfolio-woad-alpha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:sanjayjay564@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-## 👋 About Me
+## 👋 About
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I build scalable web applications, backend systems, and microservices at Code Neptune. I work across the stack with Node.js, NestJS, TypeScript, React, Next.js, and React Native, with hands-on experience in REST APIs, microservices, authentication and RBAC, and production applications.
 
-🚀&nbsp;&nbsp;**Full-Stack Developer**
-building with React.js, Next.js, Node.js, NestJS
+I use PostgreSQL, MySQL, and MongoDB for data modeling and service-level database decisions, and AWS, Docker, and CI/CD for deployment and delivery. I've also built RAG pipelines integrated with vector databases to power AI and LLM-driven features.
 
-</td>
-<td width="50%" valign="top">
-
-🤖&nbsp;&nbsp;**AI / LLM Development**
-exploring RAG pipelines, embeddings, vector search
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-🏗️&nbsp;&nbsp;**Architecture & Design**
-focused on Clean Architecture, System Design & scalable backends
-
-</td>
-<td width="50%" valign="top">
-
-🎓&nbsp;&nbsp;**Always Learning**
-BCA graduate, shipping side projects to learn by building
-
-</td>
-</tr>
-</table>
+Currently deepening my focus on **backend engineering, system design, scalable architecture, and distributed systems**.
 
 <br/>
 
@@ -58,63 +28,113 @@ BCA graduate, shipping side projects to learn by building
 
 <div align="center">
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind"/>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgresql,mysql,mongodb"/>
-
-**AI / LLM**
-
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat-square)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-FF6F00?style=flat-square)
-![Embeddings](https://img.shields.io/badge/Embeddings-673AB7?style=flat-square)
-
-**Languages & Tools**
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,figma,git"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-404040?style=for-the-badge&logo=express&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20DB-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Integration-10B981?style=for-the-badge"/>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## 🚀 Projects
 
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=sanjay-d05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=prs,issues,stars&hide_rank=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-d05&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sanjay-d05&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/sanjay-d05/blog-app"><img src="https://img.shields.io/badge/blog--app-3B82F6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Live-22C55E?style=flat-square"/>
+<br/><br/>
+Full-stack blogging platform with authentication and content management.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</td>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/rag--platform-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/In%20progress-F59E0B?style=flat-square"/>
+<br/><br/>
+Multi-tenant document intelligence with hybrid retrieval, reranking, and cited streaming answers.
+<br/><br/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/saas--core-10B981?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/In%20progress-F59E0B?style=flat-square"/>
+<br/><br/>
+Multi-tenant backend with JWT rotation, per-tenant RBAC, audit logs, Stripe webhooks, and AWS CI/CD.
+<br/><br/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square"/>
+</td>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/payments--saga-F97316?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Planned-94A3B8?style=flat-square"/>
+<br/><br/>
+Event-driven order and payment system using saga and outbox patterns, idempotency, and tracing.
+<br/><br/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/url--shortener-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Planned-94A3B8?style=flat-square"/>
+<br/><br/>
+High-throughput URL shortener with Redis caching, rate limiting, and click analytics.
+<br/><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</td>
+<td width="50%" valign="top" align="center">
+<br/><br/>
+<b>More on the way</b>
+<br/>
+<sub>Follow along for new builds</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 🚀 Featured Projects
-
 <div align="center">
 
-<a href="https://github.com/sanjay-d05/blog-app">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=sanjay-d05&repo=blog-app&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/sanjay-d05/YOUR-REPO-2">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=sanjay-d05&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true"/>
-</a>
+<sub>Always learning. Building real systems. Solving real problems.</sub>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📫 Let's connect
-
-Always open to interesting projects, collaborations, or just a good conversation about system design and AI.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9A8D4,50:C4B5FD,100:93C5FD&height=110&section=footer" width="100%"/>
 
 </div>
