@@ -62,6 +62,13 @@ Currently deepening my focus on **backend engineering, system design, scalable a
 
 <br/>
 
+## 🌱 Currently
+
+- Building **rag-platform** and **saas-core**
+- Studying system design and distributed systems
+
+<br/>
+
 ## 🚀 Projects
 
 <table>
