@@ -118,8 +118,8 @@ Event-driven order and payment system using saga and outbox patterns, idempotenc
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="https://img.shields.io/badge/url--shortener-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Planned-94A3B8?style=flat-square"/>
+<a href="https://github.com/sanjay-d05/url-shortner"><img src="https://img.shields.io/badge/url--shortener-EC4899?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Live-22C55E?style=flat-square"/>
 <br/><br/>
 High-throughput URL shortener with Redis caching, rate limiting, and click analytics.
 <br/><br/>
