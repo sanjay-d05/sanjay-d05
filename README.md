@@ -74,6 +74,16 @@ Currently deepening my focus on **backend engineering, system design, scalable a
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/sanjay-d05/url-shortner"><img src="https://img.shields.io/badge/url--shortener-EC4899?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Live-22C55E?style=flat-square"/>
+<br/><br/>
+High-throughput URL shortener with Redis caching, rate limiting, and click analytics.
+<br/><br/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</td>
+<td width="50%" valign="top">
 <a href="https://github.com/sanjay-d05/blog-app"><img src="https://img.shields.io/badge/blog--app-3B82F6?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Live-22C55E?style=flat-square"/>
 <br/><br/>
@@ -82,16 +92,6 @@ Full-stack blogging platform with authentication and content management.
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</td>
-<td width="50%" valign="top">
-<img src="https://img.shields.io/badge/rag--platform-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/In%20progress-F59E0B?style=flat-square"/>
-<br/><br/>
-Multi-tenant document intelligence with hybrid retrieval, reranking, and cited streaming answers.
-<br/><br/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </td>
 </tr>
 <tr>
@@ -118,14 +118,14 @@ Event-driven order and payment system using saga and outbox patterns, idempotenc
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/sanjay-d05/url-shortner"><img src="https://img.shields.io/badge/url--shortener-EC4899?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Live-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/rag--platform-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/In%20progress-F59E0B?style=flat-square"/>
 <br/><br/>
-High-throughput URL shortener with Redis caching, rate limiting, and click analytics.
+Multi-tenant document intelligence with hybrid retrieval, reranking, and cited streaming answers.
 <br/><br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </td>
 <td width="50%" valign="top" align="center">
 <br/><br/>
